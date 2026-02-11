@@ -8,7 +8,7 @@ I build scalable, secure, and high-performance backend systems with modern Java 
 
 ## 💼 About Me
 
-- 🔹 7+ years of experience in Java ecosystem
+- 🔹 8+ years of experience in Java ecosystem
 - 🔹 Expertise in Spring Boot, Microservices & Reactive Programming
 - 🔹 Strong background in system design & distributed systems
 - 🔹 Experience with Banking & Enterprise-grade applications
@@ -86,7 +86,7 @@ Spring Cloud Function + Azure Functions
 ## 📫 Connect With Me
 
 - 🌐 GitHub: https://github.com/suvratking
-- 💼 LinkedIn: (Add your LinkedIn URL here)
+- 💼 LinkedIn: https://www.linkedin.com/in/suvrata-k-hada/
 
 ---
 
