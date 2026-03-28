@@ -92,6 +92,8 @@ Spring Cloud Function + Azure Functions
 
 - 🌐 GitHub: https://github.com/suvratking
 - 💼 LinkedIn: https://www.linkedin.com/in/suvrata-k-hada/
+- ✉️ email: suvrat777@gmail.com
+- 💼 Portfolio: https://bold.pro/my/suvratakumar-hada-231217142158/705r
 
 ---
 
