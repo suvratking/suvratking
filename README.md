@@ -45,6 +45,11 @@ I build scalable, secure, and high-performance backend systems with modern Java 
 - Mockito
 - Testcontainers
 - Embedded MongoDB
+- BDD
+- TDD
+- Karate
+- Cucumber
+- Gherkin
 
 ---
 
